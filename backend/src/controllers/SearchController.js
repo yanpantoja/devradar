@@ -22,6 +22,6 @@ module.exports = {
             },
         });
          
-        return res.json({ dev : [] });
+        return res.json({ devs });
     }
 }
